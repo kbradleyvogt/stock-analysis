@@ -12,10 +12,9 @@ At a higher-level, the objective was to create a macro that would allow large se
 ![2017_AllStocks](https://user-images.githubusercontent.com/86968320/135731041-c3fbd1f3-3139-4272-aef3-7bd8f9205565.png)  ![2018_AllStocks](https://user-images.githubusercontent.com/86968320/135731056-060f386b-6fa3-4a76-8c50-b092618d6221.png)
 
  We can quickly see that 2017 was a much better year for green stocks than 2018. ENPH shows postive returnes in both years. While the client initially wanted to invest exclusively in the DQ stock that may not be the strongest long term position. If they insist on pursuing a single stock stratgy, ENPH shows much stronger returns overall and the ability to weather a bad marktet. 
-
+ 
 ### Refactored Script Performance
-
-While the orignal code got the job done, the refactored scripted ran much faster than the orignal code and would perform much better on a data set an order of magnitude larger
+The initial code for this job was easy to read while also accomplishing the task at hand. The refactored scripted ran much faster than the orignal code and would perform much better on a data set an order of magnitude larger. 
 
 2017 Run Time 
 
